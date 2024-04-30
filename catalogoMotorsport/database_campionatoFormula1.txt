@@ -1,0 +1,2 @@
+Ferrari,Ferrari,Maranello - ITA,16,Charles,Leclerc,MON,2,0,    Carlos,Sainz,SPA,0,0
+Mercedes AMG,Mercedes,Brackley - UK,8,Lewis,Hamilton,ENG,103,7,   George,Russell,ENG,0,0

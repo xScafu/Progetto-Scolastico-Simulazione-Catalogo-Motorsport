@@ -1,0 +1,3 @@
+Ducati,Ducati,Borgo Panigale - ITA,2,Francesco,Bagnaia,ITA,18,2,    Enea,Bastianini,ITA,9,0
+Aprilia Racing,Aprilia,Noale - ITA,0,Aleix,Espargaro,SPA,3,0,   Maverick,Vinales,SPA,9,0
+Gresini Racing Team,Ducati,Faenza - ITA,0,Fabio,di Gianantonio,ITA,1,0,  Alex,Marquez,SPA,0,0

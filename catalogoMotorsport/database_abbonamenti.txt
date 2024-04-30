@@ -1,0 +1,4 @@
+Pippo,Formula 1,MotoGP
+Paperino,Formula 1,SBK
+Alessio,Formula 1,MotoGP,SBK
+Topolino,MotoGP,WEC
